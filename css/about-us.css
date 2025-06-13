@@ -1,0 +1,10 @@
+main .about-us-container {
+  width: 50%;
+  height: 100%;
+  margin: 2rem auto;
+}
+
+main .about-us-text {
+  font-size: 2.2rem;
+  font-weight: 550;
+}
