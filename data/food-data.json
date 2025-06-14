@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Apple",
+    "description": "A crisp and juicy fruit, perfect for a healthy snack or adding a sweet crunch to recipes.",
+    "price_usd": 0.52,
+    "preview-image": "../images/apple-preview.jpg",
+    "category": "Fruit",
+    "origin_country": "Central Asia",
+    "calories_per_100g": 142,
+    "zoom-in-image": "../images/apple-zoom.jpg"
+  },
+  {
+    "name": "Banana",
+    "description": "A versatile and potassium-rich fruit, ideal for a quick energy boost or as an ingredient in smoothies and baked goods.",
+    "price_usd": 2.56,
+    "preview-image": "",
+    "category": "Fruit",
+    "origin_country": "Southeast Asia",
+    "calories_per_100g": 367,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Carrot",
+    "description": "A crunchy and sweet root vegetable, great for snacking, salads, or adding flavor to cooked dishes.",
+    "price_usd": 2.16,
+    "preview-image": "../images/carrot-preview.png",
+    "category": "Vegetable",
+    "origin_country": "Afghanistan",
+    "calories_per_100g": 373,
+    "zoom-in-image": "../images/carrot-zoom.png"
+  },
+  {
+    "name": "Potato",
+    "description": "A staple and versatile vegetable, perfect for roasting, mashing, or frying, offering a comforting and satisfying base for many meals.",
+    "price_usd": 2.37,
+    "preview-image": "../images/potato-preview.png",
+    "category": "Vegetable",
+    "origin_country": "Peru",
+    "calories_per_100g": 306,
+    "zoom-in-image": "../images/potato-zoom.png"
+  },
+  {
+    "name": "Tomato",
+    "description": "A juicy and flavorful fruit often used as a vegetable, essential for sauces, salads, and countless culinary creations.",
+    "price_usd": 1.52,
+    "preview-image": "../images/tomato-preview.png",
+    "category": "Vegetable",
+    "origin_country": "Mexico",
+    "calories_per_100g": 142,
+    "zoom-in-image": "../images/tomato-zoom.png"
+  },
+  {
+    "name": "Bread",
+    "description": "A fundamental food item, offering endless possibilities from sandwiches to toast, providing a versatile base for any meal.",
+    "price_usd": 1.39,
+    "preview-image": "../images/bread-preview.png",
+    "category": "Miscellaneous",
+    "origin_country": "Ancient Egypt",
+    "calories_per_100g": 338,
+    "zoom-in-image": "../images/bread-zoom.png"
+  },
+  {
+    "name": "Rice",
+    "description": "A globally popular grain, serving as a versatile base for diverse cuisines, from stir-fries to pilafs.",
+    "price_usd": 1.11,
+    "preview-image": "../images/rice-preview.png",
+    "category": "Grain",
+    "origin_country": "China",
+    "calories_per_100g": 462,
+    "zoom-in-image": "../images/rice-zoom.png"
+  },
+  {
+    "name": "Chicken",
+    "description": "A lean and adaptable source of protein, great for grilling, roasting, or shredding into countless dishes.",
+    "price_usd": 10.11,
+    "preview-image": "../images/chicken-preview.png",
+    "category": "Meat",
+    "origin_country": "South Asia",
+    "calories_per_100g": 433,
+    "zoom-in-image": "../images/chicken-zoom.png"
+  },
+  {
+    "name": "Beef",
+    "description": "A rich and savory meat, perfect for hearty stews, juicy steaks, or flavorful roasts.",
+    "price_usd": 12.69,
+    "preview-image": "../images/beef-preview.png",
+    "category": "Meat",
+    "origin_country": "Mesopotamia",
+    "calories_per_100g": 476,
+    "zoom-in-image": "../images/beef-zoom.png"
+  },
+  {
+    "name": "Pork",
+    "description": "A flavorful and versatile meat, excellent for roasts, chops, or savory charcuterie.",
+    "price_usd": 10.01,
+    "preview-image": "../images/pork-preview.png",
+    "category": "Meat",
+    "origin_country": "China",
+    "calories_per_100g": 68,
+    "zoom-in-image": "../images/pork-zoom.png"
+  },
+  {
+    "name": "Egg",
+    "description": "A versatile and protein-packed staple, perfect for breakfast, baking, or adding to various dishes.",
+    "price_usd": 3.29,
+    "preview-image": "../images/egg-preview.png",
+    "category": "Dairy",
+    "origin_country": "Southeast Asia",
+    "calories_per_100g": 53,
+    "zoom-in-image": "../images/egg-zoom.png"
+  },
+  {
+    "name": "Milk",
+    "description": "A wholesome and nutritious dairy product, ideal for drinking, cereals, and a wide array of recipes.",
+    "price_usd": 3.1,
+    "preview-image": "../images/milk-preview.png",
+    "category": "Dairy",
+    "origin_country": "Mesopotamia",
+    "calories_per_100g": 32,
+    "zoom-in-image": "../images/milk-zoom.png"
+  },
+  {
+    "name": "Cheese",
+    "description": "A beloved dairy product with countless varieties, perfect for snacking, cooking, or enhancing any dish.",
+    "price_usd": 3.79,
+    "preview-image": "../images/cheese-preview.png",
+    "category": "Dairy",
+    "origin_country": "Mesopotamia",
+    "calories_per_100g": 391,
+    "zoom-in-image": "../images/cheese-zoom.png"
+  },
+  {
+    "name": "Butter",
+    "description": "A rich and creamy dairy product, essential for baking, cooking, and adding depth of flavor to savory and sweet dishes.",
+    "price_usd": 5.87,
+    "preview-image": "../images/butter-preview.png",
+    "category": "Dairy",
+    "origin_country": "India",
+    "calories_per_100g": 117,
+    "zoom-in-image": "../images/butter-zoom.png"
+  },
+  {
+    "name": "Yogurt",
+    "description": "A tangy and creamy dairy product, great for breakfast, snacks, or as a base for sauces and dressings.",
+    "price_usd": 3.39,
+    "preview-image": "../images/yogurt-preview.png",
+    "category": "Dairy",
+    "origin_country": "Turkey",
+    "calories_per_100g": 288,
+    "zoom-in-image": "../images/yogurt-zoom.png"
+  },
+  {
+    "name": "Lettuce",
+    "description": "A crisp and refreshing leafy green, perfect for salads, sandwiches, and wraps.",
+    "price_usd": 0.59,
+    "preview-image": "../images/lettuce-preview.png",
+    "category": "Vegetable",
+    "origin_country": "Egypt",
+    "calories_per_100g": 499,
+    "zoom-in-image": "../images/lettuce-zoom.png"
+  },
+  {
+    "name": "Cucumber",
+    "description": "A cool and hydrating vegetable, excellent for salads, refreshing drinks, or a light snack.",
+    "price_usd": 1.57,
+    "preview-image": "../images/cucumber-preview.png",
+    "category": "Vegetable",
+    "origin_country": "India",
+    "calories_per_100g": 171,
+    "zoom-in-image": "../images/cucumber-zoom.png"
+  },
+  {
+    "name": "Onion",
+    "description": "A pungent and versatile vegetable, fundamental for adding depth and flavor to almost any savory dish.",
+    "price_usd": 2.34,
+    "preview-image": "../images/onion-preview.png",
+    "category": "Vegetable",
+    "origin_country": "Central Asia",
+    "calories_per_100g": 283,
+    "zoom-in-image": "../images/onion-zoom.png"
+  },
+  {
+    "name": "Garlic",
+    "description": "A potent and aromatic bulb, indispensable for adding robust flavor to a vast range of cuisines.",
+    "price_usd": 0.78,
+    "preview-image": "../images/garlic-preview.png",
+    "category": "Vegetable",
+    "origin_country": "Central Asia",
+    "calories_per_100g": 310,
+    "zoom-in-image": "../images/garlic-zoom.png"
+  },
+  {
+    "name": "Spinach",
+    "description": "A leafy green vegetable packed with nutrients, great for salads, smoothies, or sautéing as a healthy side.",
+    "price_usd": 1.28,
+    "preview-image": "../images/spinach-preview.png",
+    "category": "Vegetable",
+    "origin_country": "Persia",
+    "calories_per_100g": 309,
+    "zoom-in-image": "../images/spinach-zoom.png"
+  },
+  {
+    "name": "Salmon",
+    "description": "A rich and flavorful fish, excellent for grilling, baking, or pan-searing, offering a healthy and delicious meal option.",
+    "price_usd": 20.81,
+    "preview-image": "../images/salmon-preview.png",
+    "category": "Seafood",
+    "origin_country": "North Atlantic",
+    "calories_per_100g": 144,
+    "zoom-in-image": "../images/salmon-zoom.png"
+  },
+  {
+    "name": "Tuna",
+    "description": "A lean and versatile fish, perfect for sandwiches, salads, or searing for a more gourmet meal.",
+    "price_usd": 12.36,
+    "preview-image": "../images/tuna-preview.png",
+    "category": "Seafood",
+    "origin_country": "Mediterranean",
+    "calories_per_100g": 302,
+    "zoom-in-image": "../images/tuna-zoom.png"
+  },
+  {
+    "name": "Shrimp",
+    "description": "Sweet and tender seafood, ideal for stir-fries, pasta dishes, or grilling.",
+    "price_usd": 18.78,
+    "preview-image": "../images/shrimp-preview.png",
+    "category": "Seafood",
+    "origin_country": "Pantropical",
+    "calories_per_100g": 298,
+    "zoom-in-image": "../images/shrimp-zoom.png"
+  },
+  {
+    "name": "Lamb",
+    "description": "A tender and flavorful meat, often used in roasts, stews, or as a savory cut for special occasions.",
+    "price_usd": 9.38,
+    "preview-image": "../images/lamb-preview.png",
+    "category": "Meat",
+    "origin_country": "Central Asia",
+    "calories_per_100g": 498,
+    "zoom-in-image": "../images/lamb-zoom.png"
+  },
+  {
+    "name": "Turkey",
+    "description": "A lean and healthy poultry option, great for roasting, sandwiches, or ground in a variety of dishes.",
+    "price_usd": 8.48,
+    "preview-image": "../images/turkey-preview.png",
+    "category": "Meat",
+    "origin_country": "Mexico",
+    "calories_per_100g": 29,
+    "zoom-in-image": "../images/turkey-zoom.png"
+  },
+  {
+    "name": "Beans",
+    "description": "A protein-rich legume, versatile for use in soups, stews, salads, or as a hearty side dish.",
+    "price_usd": 3.73,
+    "preview-image": "../images/beans-preview.png",
+    "category": "Legume",
+    "origin_country": "Central America",
+    "calories_per_100g": 178,
+    "zoom-in-image": "../images/beans-zoom.png"
+  },
+  {
+    "name": "Lentils",
+    "description": "A nutritious and earthy legume, perfect for soups, stews, or as a healthy addition to salads and grain bowls.",
+    "price_usd": 2.2,
+    "preview-image": "../images/lentils-preview.png",
+    "category": "Legume",
+    "origin_country": "Middle East",
+    "calories_per_100g": 52,
+    "zoom-in-image": "../images/lentils-zoom.png"
+  },
+  {
+    "name": "Peas",
+    "description": "Sweet and vibrant green legumes, great for adding freshness to salads, stir-fries, or as a simple side dish.",
+    "price_usd": 2.57,
+    "preview-image": "../images/peas-preview.png",
+    "category": "Legume",
+    "origin_country": "Mediterranean",
+    "calories_per_100g": 303,
+    "zoom-in-image": "../images/peas-zoom.png"
+  },
+  {
+    "name": "Corn",
+    "description": "A sweet and crunchy grain, delightful roasted, boiled, or added to salads and salsas.",
+    "price_usd": 1.37,
+    "preview-image": "../images/corn-preview.png",
+    "category": "Miscellaneous",
+    "origin_country": "Mexico",
+    "calories_per_100g": 189,
+    "zoom-in-image": "../images/corn-zoom.png"
+  },
+  {
+    "name": "Oats",
+    "description": "A wholesome grain, perfect for a hearty breakfast porridge, baking, or adding fiber to your diet.",
+    "price_usd": 1.74,
+    "preview-image": "../images/oats-preview.png",
+    "category": "Grain",
+    "origin_country": "Europe",
+    "calories_per_100g": 424,
+    "zoom-in-image": "../images/oats-zoom.png"
+  },
+  {
+    "name": "Pasta",
+    "description": "A classic grain product, forming the base of countless Italian and international dishes, from simple buttered noodles to elaborate bakes.",
+    "price_usd": 2.32,
+    "preview-image": "../images/pasta-preview.png",
+    "category": "Grain",
+    "origin_country": "Italy",
+    "calories_per_100g": 77,
+    "zoom-in-image": "../images/pasta-zoom.png"
+  },
+  {
+    "name": "Flour",
+    "description": "A foundational grain product, essential for baking bread, cakes, and pastries, as well as thickening sauces and gravies.",
+    "price_usd": 3.76,
+    "preview-image": "../images/flour-preview.png",
+    "category": "Grain",
+    "origin_country": "Ancient Egypt",
+    "calories_per_100g": 275,
+    "zoom-in-image": "../images/flour-zoom.png"
+  },
+  {
+    "name": "Sugar",
+    "description": "A common sweetener, used to add sweetness to desserts, beverages, and savory dishes alike.",
+    "price_usd": 4.91,
+    "preview-image": "../images/sugar-preview.png",
+    "category": "Sweetener",
+    "origin_country": "New Guinea",
+    "calories_per_100g": 207,
+    "zoom-in-image": "../images/sugar-zoom.png"
+  },
+  {
+    "name": "Salt",
+    "description": "An essential seasoning, used to enhance and balance flavors in virtually all cuisines.",
+    "price_usd": 4.32,
+    "preview-image": "../images/salt-preview.png",
+    "category": "Condiment",
+    "origin_country": "Prehistoric",
+    "calories_per_100g": 353,
+    "zoom-in-image": "../images/salt-zoom.png"
+  },
+  {
+    "name": "Pepper",
+    "description": "A widely used spice, adding a pungent kick to dishes, either freshly ground or pre-ground.",
+    "price_usd": 3.4,
+    "preview-image": "../images/pepper-preview.png",
+    "category": "Condiment",
+    "origin_country": "India",
+    "calories_per_100g": 375,
+    "zoom-in-image": "../images/pepper-zoom.png"
+  },
+  {
+    "name": "Chili",
+    "description": "A fiery condiment, perfect for adding heat and depth to a variety of savory dishes.",
+    "price_usd": 1.06,
+    "preview-image": "../images/chili-preview.png",
+    "category": "Condiment",
+    "origin_country": "Central America",
+    "calories_per_100g": 388,
+    "zoom-in-image": "../images/chili-zoom.png"
+  },
+  {
+    "name": "Cinnamon",
+    "description": "A warm and aromatic spice, perfect for baking, hot beverages, or adding a fragrant touch to savory dishes.",
+    "price_usd": 2.2,
+    "preview-image": "../images/cinnamon-preview.png",
+    "category": "Condiment",
+    "origin_country": "Sri Lanka",
+    "calories_per_100g": 452,
+    "zoom-in-image": "../images/cinnamon-zoom.png"
+  },
+  {
+    "name": "Basil",
+    "description": "A fragrant herb, essential for Italian cuisine, pestos, and adding fresh flavor to salads and sauces.",
+    "price_usd": 4.35,
+    "preview-image": "../images/basil-preview.png",
+    "category": "Condiment",
+    "origin_country": "India",
+    "calories_per_100g": 44,
+    "zoom-in-image": "../images/basil-zoom.png"
+  },
+  {
+    "name": "Oregano",
+    "description": "A pungent and earthy herb, a staple in Mediterranean and Mexican cuisines, great for pizzas, pasta, and roasted vegetables.",
+    "price_usd": 2.8,
+    "preview-image": "../images/oregano-preview.png",
+    "category": "Condiment",
+    "origin_country": "Mediterranean",
+    "calories_per_100g": 196,
+    "zoom-in-image": "../images/oregano-zoom.png"
+  },
+  {
+    "name": "Parsley",
+    "description": "A fresh and vibrant herb, commonly used as a garnish or to add a bright, herbaceous note to soups, salads, and main courses.",
+    "price_usd": 1.01,
+    "preview-image": "",
+    "category": "Condiment",
+    "origin_country": "Mediterranean",
+    "calories_per_100g": 208,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Orange",
+    "description": "A sweet and tangy citrus fruit, delicious on its own, in juices, or as an addition to desserts and savory dishes.",
+    "price_usd": 2.25,
+    "preview-image": "../images/orange-preview.png",
+    "category": "Fruit",
+    "origin_country": "China",
+    "calories_per_100g": 59,
+    "zoom-in-image": "../images/orange-zoom.png"
+  },
+  {
+    "name": "Grapes",
+    "description": "Sweet and juicy berries, perfect for snacking, adding to fruit salads, or pairing with cheese.",
+    "price_usd": 1.78,
+    "preview-image": "../images/grapes-preview.png",
+    "category": "Fruit",
+    "origin_country": "Middle East",
+    "calories_per_100g": 396,
+    "zoom-in-image": "../images/grapes-zoom.png"
+  },
+  {
+    "name": "Strawberry",
+    "description": "A sweet and slightly tart berry, excellent in desserts, smoothies, or enjoyed fresh on their own.",
+    "price_usd": 2.98,
+    "preview-image": "../images/strawberry-preview.png",
+    "category": "Fruit",
+    "origin_country": "Europe",
+    "calories_per_100g": 181,
+    "zoom-in-image": "../images/strawberry-zoom.png"
+  },
+  {
+    "name": "Blueberry",
+    "description": "Small, sweet, and antioxidant-rich berries, perfect for baking, breakfast, or as a healthy snack.",
+    "price_usd": 2.03,
+    "preview-image": "../images/blueberry-preview.png",
+    "category": "Fruit",
+    "origin_country": "North America",
+    "calories_per_100g": 318,
+    "zoom-in-image": "../images/blueberry-zoom.png"
+  },
+  {
+    "name": "Watermelon",
+    "description": "A refreshing and hydrating fruit, ideal for summer picnics and a sweet, juicy treat.",
+    "price_usd": 1.62,
+    "preview-image": "../images/watermelon-preview.png",
+    "category": "Fruit",
+    "origin_country": "Africa",
+    "calories_per_100g": 95,
+    "zoom-in-image": "../images/watermelon-zoom.png"
+  },
+  {
+    "name": "Pineapple",
+    "description": "A tropical and tangy fruit, delicious fresh, grilled, or blended into smoothies and cocktails.",
+    "price_usd": 1.55,
+    "preview-image": "../images/pineapple-preview.png",
+    "category": "Fruit",
+    "origin_country": "South America",
+    "calories_per_100g": 267,
+    "zoom-in-image": "../images/pineapple-zoom.png"
+  },
+  {
+    "name": "Mango",
+    "description": "A sweet and tropical fruit, perfect for smoothies, desserts, or adding a burst of exotic flavor to savory dishes.",
+    "price_usd": 1.93,
+    "preview-image": "../images/mango-preview.png",
+    "category": "Fruit",
+    "origin_country": "India",
+    "calories_per_100g": 85,
+    "zoom-in-image": "../images/mango-zoom.png"
+  },
+  {
+    "name": "Coconut",
+    "description": "A versatile tropical fruit, offering delicious water, creamy milk, and flavorful meat for a range of culinary uses.",
+    "price_usd": 2.38,
+    "preview-image": "../images/coconut--preview.png",
+    "category": "Fruit",
+    "origin_country": "Southeast Asia",
+    "calories_per_100g": 374,
+    "zoom-in-image": "../images/coconut--zoom.png"
+  },
+  {
+    "name": "Avocado",
+    "description": "A creamy and nutritious fruit, excellent for guacamole, salads, toast, or as a healthy fat source.",
+    "price_usd": 2.49,
+    "preview-image": "../images/avocado-preview.png",
+    "category": "Fruit",
+    "origin_country": "Central America",
+    "calories_per_100g": 251,
+    "zoom-in-image": "../images/avocado-zoom.png"
+  },
+  {
+    "name": "Kiwi",
+    "description": "A tangy and sweet fruit with a vibrant green interior, great for fruit salads, smoothies, or as a refreshing snack.",
+    "price_usd": 1.65,
+    "preview-image": "",
+    "category": "Fruit",
+    "origin_country": "China",
+    "calories_per_100g": 441,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Almonds",
+    "description": "A crunchy and nutritious nut, perfect for snacking, baking, or as an ingredient in various dishes.",
+    "price_usd": 4.14,
+    "preview-image": "",
+    "category": "Nut/Seed",
+    "origin_country": "Middle East",
+    "calories_per_100g": 436,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Walnuts",
+    "description": "A distinctively flavored nut, excellent for baking, salads, or as a healthy snack.",
+    "price_usd": 6.18,
+    "preview-image": "",
+    "category": "Nut/Seed",
+    "origin_country": "Central Asia",
+    "calories_per_100g": 139,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Cashews",
+    "description": "A creamy and buttery nut, wonderful for snacking, making nut butter, or adding to stir-fries and curries.",
+    "price_usd": 9.25,
+    "preview-image": "",
+    "category": "Nut/Seed",
+    "origin_country": "Brazil",
+    "calories_per_100g": 372,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Peanuts",
+    "description": "A versatile and protein-packed legume, perfect for snacking, making peanut butter, or adding to Asian-inspired dishes.",
+    "price_usd": 2.67,
+    "preview-image": "",
+    "category": "Legume",
+    "origin_country": "South America",
+    "calories_per_100g": 376,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Hazelnuts",
+    "description": "A sweet and aromatic nut, commonly used in desserts, chocolates, and spreads, or enjoyed as a snack.",
+    "price_usd": 3.82,
+    "preview-image": "",
+    "category": "Nut/Seed",
+    "origin_country": "Europe",
+    "calories_per_100g": 358,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Sunflower Seeds",
+    "description": "Crunchy and nutritious seeds, great for snacking, salads, or as a topping for baked goods.",
+    "price_usd": 9.29,
+    "preview-image": "",
+    "category": "Nut/Seed",
+    "origin_country": "North America",
+    "calories_per_100g": 174,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "description": "Flavorful and nutritious seeds, excellent for snacking, topping salads, or adding to granola.",
+    "price_usd": 8.86,
+    "preview-image": "",
+    "category": "Nut/Seed",
+    "origin_country": "North America",
+    "calories_per_100g": 469,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Tofu",
+    "description": "A versatile plant-based protein, excellent for absorbing flavors in stir-fries, curries, or grilling.",
+    "price_usd": 3.36,
+    "preview-image": "",
+    "category": "Legume",
+    "origin_country": "China",
+    "calories_per_100g": 132,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Tempeh",
+    "description": "A fermented soybean product with a nutty flavor, perfect for plant-based dishes, absorbing marinades beautifully.",
+    "price_usd": 2.58,
+    "preview-image": "",
+    "category": "Legume",
+    "origin_country": "Indonesia",
+    "calories_per_100g": 392,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Mushrooms",
+    "description": "Earthy and versatile fungi, great for adding umami to stir-fries, soups, sauces, or as a hearty side.",
+    "price_usd": 2.06,
+    "preview-image": "",
+    "category": "Miscellaneous",
+    "origin_country": "Worldwide",
+    "calories_per_100g": 94,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Zucchini",
+    "description": "A mild and versatile squash, great for grilling, sautéing, baking, or adding to pasta dishes.",
+    "price_usd": 0.76,
+    "preview-image": "",
+    "category": "Vegetable",
+    "origin_country": "Mexico",
+    "calories_per_100g": 239,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Broccoli",
+    "description": "A nutrient-rich green vegetable, excellent steamed, roasted, or stir-fried as a healthy and flavorful side.",
+    "price_usd": 0.7,
+    "preview-image": "",
+    "category": "Vegetable",
+    "origin_country": "Italy",
+    "calories_per_100g": 84,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Cauliflower",
+    "description": "A versatile and nutrient-packed vegetable, great roasted, mashed, or as a low-carb alternative in various dishes.",
+    "price_usd": 2.34,
+    "preview-image": "",
+    "category": "Vegetable",
+    "origin_country": "Cyprus",
+    "calories_per_100g": 337,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Brussels Sprouts",
+    "description": "Small, flavorful cabbage-like vegetables, delicious roasted, sautéed, or shredded in salads.",
+    "price_usd": 2.05,
+    "preview-image": "",
+    "category": "Vegetable",
+    "origin_country": "Belgium",
+    "calories_per_100g": 223,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Eggplant",
+    "description": "A unique and spongy vegetable, great for grilling, baking, or in dishes like eggplant parmesan and curries.",
+    "price_usd": 2.44,
+    "preview-image": "",
+    "category": "Vegetable",
+    "origin_country": "India",
+    "calories_per_100g": 166,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Radish",
+    "description": "A crisp and peppery root vegetable, perfect for adding a zesty crunch to salads or as a garnish.",
+    "price_usd": 1.12,
+    "preview-image": "",
+    "category": "Vegetable",
+    "origin_country": "Southeast Asia",
+    "calories_per_100g": 233,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Sweet Potato",
+    "description": "A naturally sweet and nutritious root vegetable, excellent roasted, mashed, or baked as a healthier alternative.",
+    "price_usd": 2.25,
+    "preview-image": "",
+    "category": "Vegetable",
+    "origin_country": "Central America",
+    "calories_per_100g": 261,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Chickpeas",
+    "description": "A protein-rich legume, perfect for hummus, falafel, salads, or roasted for a crunchy snack.",
+    "price_usd": 1.43,
+    "preview-image": "",
+    "category": "Legume",
+    "origin_country": "Middle East",
+    "calories_per_100g": 333,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Quinoa",
+    "description": "A highly nutritious ancient grain, great as a side dish, in salads, or as a base for vegetarian meals.",
+    "price_usd": 1.34,
+    "preview-image": "",
+    "category": "Grain",
+    "origin_country": "Andes",
+    "calories_per_100g": 387,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Barley",
+    "description": "A hearty and nutritious grain, excellent for soups, stews, or as a wholesome side dish.",
+    "price_usd": 1.16,
+    "preview-image": "",
+    "category": "Grain",
+    "origin_country": "Middle East",
+    "calories_per_100g": 20,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Noodles",
+    "description": "A versatile grain product, forming the base of countless Asian and international dishes, from stir-fries to soups.",
+    "price_usd": 3.65,
+    "preview-image": "",
+    "category": "Grain",
+    "origin_country": "China",
+    "calories_per_100g": 446,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Soy Sauce",
+    "description": "A savory and salty condiment, essential for Asian cuisines, marinades, and dipping sauces.",
+    "price_usd": 2.41,
+    "preview-image": "",
+    "category": "Condiment",
+    "origin_country": "China",
+    "calories_per_100g": 143,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Ketchup",
+    "description": "A classic sweet and tangy condiment, perfect for fries, burgers, and countless other dishes.",
+    "price_usd": 1.06,
+    "preview-image": "",
+    "category": "Condiment",
+    "origin_country": "China",
+    "calories_per_100g": 144,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Mustard",
+    "description": "A pungent and tangy condiment, ideal for sandwiches, hot dogs, or as an ingredient in dressings and sauces.",
+    "price_usd": 1.4,
+    "preview-image": "",
+    "category": "Condiment",
+    "origin_country": "Mediterranean",
+    "calories_per_100g": 42,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Mayonnaise",
+    "description": "A creamy and rich condiment, essential for sandwiches, salads, and as a base for many dressings.",
+    "price_usd": 3.53,
+    "preview-image": "",
+    "category": "Condiment",
+    "origin_country": "France",
+    "calories_per_100g": 168,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Vinegar",
+    "description": "A versatile acidic liquid, great for salad dressings, marinades, pickling, or as a cleaning agent.",
+    "price_usd": 3.08,
+    "preview-image": "",
+    "category": "Condiment",
+    "origin_country": "Mesopotamia",
+    "calories_per_100g": 108,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Honey",
+    "description": "A natural and sweet liquid, perfect for tea, toast, baking, or as a glaze for savory dishes.",
+    "price_usd": 7.38,
+    "preview-image": "../images/honey-preview.png",
+    "category": "Sweetener",
+    "origin_country": "Worldwide",
+    "calories_per_100g": 309,
+    "zoom-in-image": "../images/honey-zoom.png"
+  },
+  {
+    "name": "Maple Syrup",
+    "description": "A natural and rich sweetener, ideal for pancakes, waffles, or adding a unique flavor to baking and glazes.",
+    "price_usd": 6.3,
+    "preview-image": "",
+    "category": "Sweetener",
+    "origin_country": "Canada",
+    "calories_per_100g": 296,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Jam",
+    "description": "A sweet and fruity spread, perfect for toast, pastries, or as an ingredient in various desserts.",
+    "price_usd": 4.05,
+    "preview-image": "",
+    "category": "Condiment",
+    "origin_country": "Ancient Rome",
+    "calories_per_100g": 490,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Pickles",
+    "description": "Tangy and crunchy preserved cucumbers, great as a snack, on sandwiches, or alongside savory meals.",
+    "price_usd": 2.62,
+    "preview-image": "",
+    "category": "Condiment",
+    "origin_country": "Mesopotamia",
+    "calories_per_100g": 47,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Sausage",
+    "description": "A flavorful and versatile ground meat product, perfect for breakfast, grilling, or adding to pasta and stews.",
+    "price_usd": 7.47,
+    "preview-image": "",
+    "category": "Meat",
+    "origin_country": "Ancient Greece",
+    "calories_per_100g": 21,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Bacon",
+    "description": "Crispy and savory cured pork, a popular breakfast item and flavorful addition to salads, sandwiches, and more.",
+    "price_usd": 7.46,
+    "preview-image": "",
+    "category": "Meat",
+    "origin_country": "China",
+    "calories_per_100g": 318,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Ham",
+    "description": "A versatile cured pork product, great for sandwiches, roasts, or dicing into omelets and casseroles.",
+    "price_usd": 14.53,
+    "preview-image": "",
+    "category": "Meat",
+    "origin_country": "China",
+    "calories_per_100g": 482,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Duck",
+    "description": "A rich and flavorful poultry, offering succulent meat and crispy skin, perfect for roasting or confit.",
+    "price_usd": 9.19,
+    "preview-image": "",
+    "category": "Meat",
+    "origin_country": "China",
+    "calories_per_100g": 34,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Goose",
+    "description": "A robust and flavorful poultry, traditionally enjoyed roasted for festive occasions.",
+    "price_usd": 8.53,
+    "preview-image": "",
+    "category": "Meat",
+    "origin_country": "Europe",
+    "calories_per_100g": 371,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Crab",
+    "description": "Sweet and tender seafood, delicious steamed, boiled, or in crab cakes and bisques.",
+    "price_usd": 9.87,
+    "preview-image": "",
+    "category": "Seafood",
+    "origin_country": "Worldwide",
+    "calories_per_100g": 487,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Lobster",
+    "description": "A luxurious and sweet shellfish, perfect steamed, boiled, or grilled, a true delicacy.",
+    "price_usd": 13.12,
+    "preview-image": "",
+    "category": "Seafood",
+    "origin_country": "Worldwide",
+    "calories_per_100g": 387,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Clams",
+    "description": "Briny and tender shellfish, excellent in pasta dishes, chowders, or steamed with garlic and wine.",
+    "price_usd": 17.69,
+    "preview-image": "",
+    "category": "Seafood",
+    "origin_country": "Worldwide",
+    "calories_per_100g": 431,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Scallops",
+    "description": "Sweet and delicate shellfish, superb seared to a golden brown, adding elegance to any meal.",
+    "price_usd": 9.7,
+    "preview-image": "",
+    "category": "Seafood",
+    "origin_country": "Worldwide",
+    "calories_per_100g": 224,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Anchovies",
+    "description": "Small, salty fish, packed with umami flavor, perfect for sauces, pizzas, or savory appetizers.",
+    "price_usd": 14.21,
+    "preview-image": "",
+    "category": "Seafood",
+    "origin_country": "Mediterranean",
+    "calories_per_100g": 257,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Ice Cream",
+    "description": "A delightful frozen dessert, available in countless flavors, perfect for a sweet treat on its own or with other desserts.",
+    "price_usd": 5.56,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "China",
+    "calories_per_100g": 136,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Chocolate",
+    "description": "A beloved sweet treat, perfect for snacking, baking, or adding a rich, decadent flavor to any dessert.",
+    "price_usd": 9.97,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "Mesoamerica",
+    "calories_per_100g": 207,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Cookies",
+    "description": "A classic baked sweet treat, perfect for snacking, sharing, or dipping in milk.",
+    "price_usd": 9.39,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "Iran",
+    "calories_per_100g": 46,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Cake",
+    "description": "A celebratory baked dessert, perfect for special occasions or as a sweet indulgence anytime.",
+    "price_usd": 9.99,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "Ancient Egypt",
+    "calories_per_100g": 210,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Pie",
+    "description": "A comforting baked dessert with a delicious filling, perfect for a satisfying sweet treat.",
+    "price_usd": 5.28,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "Greece",
+    "calories_per_100g": 280,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Muffin",
+    "description": "A versatile baked good, perfect for breakfast, a snack, or a sweet treat with coffee or tea.",
+    "price_usd": 7.16,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "United Kingdom",
+    "calories_per_100g": 72,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Pancake",
+    "description": "Fluffy and versatile, perfect for breakfast with syrup, fruit, or savory toppings.",
+    "price_usd": 2.02,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "Ancient Greece",
+    "calories_per_100g": 431,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Waffles",
+    "description": "Crispy on the outside and soft on the inside, a delightful breakfast or dessert item, perfect with various toppings.",
+    "price_usd": 5.86,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "Belgium",
+    "calories_per_100g": 114,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Donut",
+    "description": "A sweet, fried pastry, often glazed or filled, perfect for a delightful treat with coffee.",
+    "price_usd": 2.02,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "Netherlands",
+    "calories_per_100g": 42,
+    "zoom-in-image": ""
+  },
+  {
+    "name": "Brownie",
+    "description": "A rich and fudgy chocolate baked good, perfect for a decadent dessert or a sweet pick-me-up.",
+    "price_usd": 2.04,
+    "preview-image": "",
+    "category": "Dessert",
+    "origin_country": "United States",
+    "calories_per_100g": 55,
+    "zoom-in-image": ""
+  }
+]
